@@ -1,4 +1,5 @@
 # 
+- JavaFx -
 Taller Práctico Formulario 2 
 • login para que un usuario ingrese a la aplicación user : admin pass : 123
 • Si el usuario ingrese 3 veces incorrectamente el password mostrar un mensaje que  indique que por intentos fallidos la aplicación se cerrara y se debe cerrar la aplicación.
