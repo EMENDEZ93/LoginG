@@ -60,7 +60,7 @@ public class Login extends Application {
         
 //_________________________________________________
     //creacion de un label para user
-        Label Lnombre = new Label( "User Name : " );
+        Label Lnombre = new Label( " - User Name : " );
         
     //ubicacion en la matriz en la interfaz
         GridPane.setConstraints( Lnombre , 1 , 0 );
